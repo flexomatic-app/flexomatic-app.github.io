@@ -1,0 +1,235 @@
+@media (max-width: 1200px){
+    .test{
+        height: 71vh;
+        background-image: radial-gradient(#4CC6F1,#1B7996)!important;
+        display: flex;
+        padding-bottom: 150px;
+    }
+    .screendouble{
+        display: none;
+    }
+    .vaguestyle {
+        margin-top: -13vh;
+    }
+    h1{
+        color: #1B7996;
+        font-size: 4rem;
+    }
+    h2{
+        color: #fff;
+        font-size: 9rem;
+    }
+    #title{
+        font-size: 3rem;
+
+    }
+    .ImgGooglePlay {
+        width: 25rem;
+    }
+    #Container5 {
+        padding-bottom: 5rem;
+        z-index: 1;
+    }
+    .logoreseaux{
+        margin: auto;
+        width: 50%;
+        margin-top: 30px;
+        margin-bottom: 10%;
+    }
+    #Footer .container-fluid{
+        height: 55rem;
+        background-image: radial-gradient(#4CC6F1,#1B7996)!important;
+        margin-top: 0;
+    }
+    .menufooter{
+        padding: 40% 100px 0px 0px;
+        height: auto;
+        padding-top: 0%;
+    }
+    .copyright{
+        width: 100%;
+        margin: auto;
+        height: none;
+        padding-top: 5%;
+    }
+    #navbarSupportedContent{
+        background: #fff;
+        z-index: 50;
+    }
+    .nav-link {
+        padding-right: 0;
+            padding-left: 0;
+            color: #000;
+            font-size: 3rem;
+            text-transform: uppercase;
+            font-weight: 200;
+        }
+    #Container4 {
+        background: #fff;
+        height: 35rem;
+        margin: 0;
+        margin-bottom: 5rem;
+    }
+    #Container4 .etoiles{
+        width: 60%;
+        margin: 10px 0px 5px 0px;
+    }
+    #Container4 .container{
+    margin: 0;
+    }
+    #Container4 .guillemetBas{
+        width: 100px;
+        height: 100px;
+        bottom: 15%;
+        right: 10%;
+    }
+    #Container4 p{
+        font-size: 2rem;
+    }
+    #Container4 .text{
+        width: 65%;
+    }
+    #Container4 .guillemetHaut{
+        width: 100px;
+        height: 100px;
+        left: 10%;
+        top: 10%;
+    }
+    #Footer p{
+        font-size: 2.5rem !important;
+        text-align: right !important;
+    }
+    .carousel-control-next-icon, .carousel-control-prev-icon{
+        width: 50px;
+        height: 50px;
+    }
+    .stats{
+        display: block;
+    }
+    .blockstats{
+        width: 80%;
+        height: auto;
+        margin:auto auto 5rem auto;
+    }
+    #icones .row{
+    height: auto;
+    }
+    #blockicones p {
+        font-size: 2rem;
+    }
+    #blockicones .row {
+        margin: 2rem auto 2rem auto;
+        width: 95%;
+        float: none !important;
+    }
+    #pc{
+        display: none;
+    }
+    #navbarSupportedContent p{
+        font-size: 3rem;
+    }
+    .dropdown-menu img{
+        width:5rem;
+        height: 5rem;
+        margin: 0rem 1rem 0rem 1rem;
+    }
+    .titlereseaux{
+        font-size:45px;
+        font-weight: 700;
+        line-height: 2em;
+        margin: 0;
+    }
+    #textfaq p{
+        font-size: 2rem;
+    }
+    #textfaq h3 {
+        font-size: 3rem;
+    }
+    #titlefaq {
+        height: 30vh;
+    }
+    #textfaq,#textterms{
+        max-width: 100%;
+    }
+    #questions h2{
+        font-size: 5rem;
+    }
+    #questions .container{
+        max-width: 100%;
+    }
+    .faqs{
+        font-size: 45px;
+    }
+    .chatfaq{
+        font-size: 30px;
+    }
+    .chiffre{
+        font-size: 5rem;
+    }
+    #Container2 .title{
+        font-size: 5rem;
+    }
+    #ContainerTeamSupport img{
+        padding-top: 100px;
+    }
+    h2{
+        font-size: 5rem !important;
+    }
+    p{
+        font-size: 3rem !important;
+    }
+    #videouserguide .container{
+        width: 100%;
+    }
+    hr{
+        width: 80% !important;
+    }
+    p{
+        text-align: center;
+    }
+    #questions .col-6{
+        margin: auto;
+    }
+    #userguide .text, #iphoneusers .text{
+        width: 100%;
+    }
+    #Container4 p{
+        font-size: 3rem !important;
+    }
+    .carousel-indicators li{
+        height: 40px;
+        width: 40px;
+    }
+    #carrouselinstall h3{
+        font-size: 3.5rem;
+        color:#1B7996 ;
+    }
+    #carrouselinstall .container{
+        max-width: 100%;
+    }
+    .logoimg{
+        width: 50px; 
+        height: 50px;
+    }
+    .textmenu{
+        color: #1B7996;
+    }
+
+    #icones img{
+        width: 200px;
+        padding: 10px;
+    }
+    .iconespc{
+        display: none;
+    }
+    .titleright{
+        padding: 0px;
+    }
+    #userguide, #iphoneusers {
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    #logomobile{
+        display: none;
+    }
+}

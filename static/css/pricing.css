@@ -1,0 +1,8 @@
+.list-features-perks li {
+    margin-bottom: 1.5rem!important;
+}
+
+.title-features-perks {
+    background-image: radial-gradient(#4CC6F1,#1B7996)!important;
+    color: white;
+}

@@ -1,0 +1,42 @@
+@media (min-width: 1200px){
+    .logo {
+        width: 30px;
+        height: 30px;
+        margin-right: 10px;
+    }
+    .logotext {
+        width: 156px;
+        height: 17px;
+    }
+    #navbarSupportedContent a {
+        font-size: 15px;
+    }
+    .bi-box-arrow-in-down {
+        width: 2em;
+        height: 2em;
+    }
+    #title{
+        margin-top: 0rem;
+    }
+    .ImgGooglePlay {
+        margin-top: 0rem;
+    }
+    #mobile{
+        display: none;
+    }
+    #logomobile{
+        display: none !important;
+    }
+    .iconesmobile{
+        display: none;
+    }
+    #icones .title{
+        padding-right: 0px;
+    }
+    #icones .title{
+        padding-right: 60px;
+    }
+    .titleright {
+        padding-left: 60px;
+    }
+}
